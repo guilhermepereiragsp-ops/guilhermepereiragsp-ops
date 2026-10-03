@@ -2,7 +2,7 @@
 
 **`Mestrando em Engenharia Biomédica`**
 
-Chamo-me Guilherme Pereira, tenho 22 anos e atualmente sou aluno de Mestrado em Engenharia Biomédica no Instituto Superior de Engenharia do Porto (ISEP). Concluí a minha licenciatura na mesma área em 2025, pelo ISEP. Desde então, dedico-me a tentar criar soluções tecnológicas que otimizem e promovam uma melhor qualidade dos sistemas de saúde, trabalhando sobretudo com dados de imagem médica e sinais fisiológicos.
+Chamo-me Guilherme Pereira, tenho 22 anos e atualmente sou aluno de Mestrado em Engenharia Biomédica no Instituto Superior de Engenharia do Porto (ISEP). Concluí a minha licenciatura na mesma área em 2025, pelo ISEP. Desde então, dedico-me a criar soluções tecnológicas que otimizem e promovam uma melhor qualidade dos sistemas de saúde, trabalhando sobretudo com dados de imagem médica e sinais fisiológicos.
 
 ---
 
